@@ -1,0 +1,23 @@
+name = "Иван"
+lastname = "Иванов"
+email = "6650049@gmail.com"
+phone = "+79856402627"
+password = "QwErTyUi1!!!!"
+password21 = "QwErTyUi1!!!!QwErTyUi"
+passmall = "qwertyui"
+namedash = "Иван-Иван"
+lastnamedash = "Иванов-Иванов"
+
+fname = "И"
+flastname = "ИвановИвановИвановИвановИвановИ"
+femail = "6650049gmail.com"
+fphone = "6402627"
+fpassword = "QwErTyU"
+password2 = "QwErTyUi1@"
+
+sname = "Иван!"
+slastname = "Иванов!"
+
+engname = "Ivan"
+englastname = "Ivanov"
+captcha = "Yjnvjdjt4"
